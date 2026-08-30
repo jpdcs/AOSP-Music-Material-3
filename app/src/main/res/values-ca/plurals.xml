@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d cançons</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d de %1$d cançons</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d àlbums</item>
+        <item quantity="one">1 àlbum</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">S\'han suprimit %d cançons.</item>
+        <item quantity="one">S\'ha suprimit 1 cançó.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">S\'ha afegit %d cançons a la llista de reproducció.</item>
+        <item quantity="one">S\'ha afegit 1 cançó a la llista de reproducció.</item>
+    </plurals>
+</resources>

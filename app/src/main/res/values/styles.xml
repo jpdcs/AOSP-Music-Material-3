@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Holo.Translucent.NoActionBar" parent="Theme.Music.Translucent">
+        <!-- Keep the name for backward compatibility during migration if needed, but point to M3 -->
+    </style>
+</resources>

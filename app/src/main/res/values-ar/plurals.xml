@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d من الأغاني</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d من إجمالي %1$d من الأغاني</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d من الألبومات</item>
+        <item quantity="one">ألبوم واحد</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">تم حذف %d من الأغاني.</item>
+        <item quantity="one">تم حذف أغنية واحدة</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">تمت إضافة %d من الأغاني إلى قائمة التشغيل.</item>
+        <item quantity="one">تمت إضافة أغنية واحدة إلى قائمة التشغيل.</item>
+    </plurals>
+</resources>
