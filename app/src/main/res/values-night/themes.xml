@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Music" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Material 3 Dark Colors (Fallback) -->
+        <item name="colorPrimary">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/onPrimary_dark</item>
+        <item name="colorPrimaryContainer">@color/primaryContainer_dark</item>
+        <item name="colorOnPrimaryContainer">@color/onPrimaryContainer_dark</item>
+        <item name="colorSecondary">@color/secondary_dark</item>
+        <item name="colorOnSecondary">@color/onSecondary_dark</item>
+        <item name="colorTertiary">@color/tertiary_dark</item>
+        <item name="colorOnTertiary">@color/onTertiary_dark</item>
+        <item name="android:statusBarColor">?attr/colorSurface</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.Music.Dialog" parent="Theme.Material3.DayNight.Dialog">
+    </style>
+</resources>
