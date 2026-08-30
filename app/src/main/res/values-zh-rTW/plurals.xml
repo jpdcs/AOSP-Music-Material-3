@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d 首樂曲</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">專輯的 %1$d 首樂曲中，有 %2$d 首該演出者的樂曲</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d 專輯</item>
+        <item quantity="one">1 張專輯</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">已刪除 %d 首樂曲。</item>
+        <item quantity="one">已刪除 1 首樂曲。</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">已將 %d 首樂曲新增至播放清單。</item>
+        <item quantity="one">已將 1 首樂曲加入播放清單。</item>
+    </plurals>
+</resources>

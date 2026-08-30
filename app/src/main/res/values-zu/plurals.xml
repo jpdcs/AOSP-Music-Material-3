@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d amaculo</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d kwamaculo angu-%1$d</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d ama-albhamu</item>
+        <item quantity="one">i-album engu-1</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">amaculo angu-%d asusiwe.</item>
+        <item quantity="one">iculo eliyi-1 lisusiwe.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d amaculo afakwe ohlwini lokudlalayo.</item>
+        <item quantity="one">Iculo elingu-1 elifakwe ohlwini lokudlalayo.</item>
+    </plurals>
+</resources>
