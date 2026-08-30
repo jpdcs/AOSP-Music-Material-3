@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d kappaletta</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d/%1$d kappaletta</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d albumia</item>
+        <item quantity="one">1 albumi</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d kappaletta poistettiin.</item>
+        <item quantity="one">1 kappale poistettu.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d kappaletta lisätty soittolistaan.</item>
+        <item quantity="one">1 kappale lisätty soittolistaan.</item>
+    </plurals>
+</resources>

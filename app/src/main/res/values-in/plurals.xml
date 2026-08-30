@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d lagu</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d dari %1$d lagu</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d album</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d lagu berhasil dihapus.</item>
+        <item quantity="one">1 lagu telah dihapus.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d lagu yang ditambahkan ke daftar putar.</item>
+        <item quantity="one">1 lagu yang ditambahkan ke daftar putar.</item>
+    </plurals>
+</resources>
