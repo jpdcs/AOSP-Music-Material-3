@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">曲（%d）</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%1$d曲中%2$d曲</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">アルバム（%d）</item>
+        <item quantity="one">アルバム（1）</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d曲削除しました。</item>
+        <item quantity="one">1曲削除しました。</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">プレイリストに%d曲が追加されました。</item>
+        <item quantity="one">プレイリストに1曲追加しました。</item>
+    </plurals>
+</resources>

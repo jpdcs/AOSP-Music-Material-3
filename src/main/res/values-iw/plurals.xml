@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d שירים</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d מתוך %1$d שירים</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d אלבומים</item>
+        <item quantity="one">אלבום אחד</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d שירים נמחקו.</item>
+        <item quantity="one">שיר אחד נמחק.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d שירים נוספו לפלייליסט.</item>
+        <item quantity="one">שיר אחד נוסף לפלייליסט.</item>
+    </plurals>
+</resources>
