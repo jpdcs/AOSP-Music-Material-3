@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d dziesma(-as)</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d no %1$d dziesmas(-ām)</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d albums(-i)</item>
+        <item quantity="one">1 albums</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d dziesma(-as) tika dzēsta(-as).</item>
+        <item quantity="one">1 dziesma tika dzēsta.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">Atskaņošanas sarakstam tika pievienota(-as) %d dziesma(-as).</item>
+        <item quantity="one">Atskaņošanas sarakstam ir pievienota 1 dziesma.</item>
+    </plurals>
+</resources>

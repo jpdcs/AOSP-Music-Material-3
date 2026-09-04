@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d nummers</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d van %1$d nummers</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d albums</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d nummers zijn verwijderd.</item>
+        <item quantity="one">1 nummer is verwijderd.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d nummers toegevoegd aan afspeellijst.</item>
+        <item quantity="one">1 nummer toegevoegd aan afspeellijst.</item>
+    </plurals>
+</resources>
