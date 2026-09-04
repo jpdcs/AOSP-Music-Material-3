@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">Nyimbo %d</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$dya nyimbo %1$d</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">Albamu %d</item>
+        <item quantity="one">Albamu 1</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">Nyimbo %d zilifutwa.</item>
+        <item quantity="one">Wimbo 1 ulifutwa.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">Nyimbo %d zimeongezwa kwenye orodha ya kucheza.</item>
+        <item quantity="one">Wimbo 1 umeongeza kwenye orodha ya kucheza.</item>
+    </plurals>
+</resources>

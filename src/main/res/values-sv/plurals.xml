@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d låtar</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d av %1$d låtar</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d album</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d låtar togs bort.</item>
+        <item quantity="one">1 låt togs bort.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d låtar har lagts till i spellistan.</item>
+        <item quantity="one">1 låt har lagts till i spellistan.</item>
+    </plurals>
+</resources>
