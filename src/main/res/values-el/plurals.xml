@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d τραγούδια</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d από %1$d τραγούδια</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d άλμπουμ</item>
+        <item quantity="one">1 άλμπουμ</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">Διαγράφηκαν %d τραγούδια.</item>
+        <item quantity="one">Διαγράφηκε 1 τραγούδι.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d τραγούδια προστέθηκαν στη λίστα αναπαραγωγής.</item>
+        <item quantity="one">1 τραγούδι προστέθηκε στη λίστα αναπαραγωγής.</item>
+    </plurals>
+</resources>
